@@ -76,29 +76,16 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
 
 <hr class="solid">
 
-<hr class="solid">
-
-<h3><b>Misc</b></h3>
+<h3><b>Miscellaneous</b></h3>
 
 <ul>
-  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications. More <a href="https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html">resources.</a></li>
-  <br>
-  <li>
-    Mikhail Tal's <a href="https://lichess.org/study/4Z1dTRky/4JM2orUS">magical win</a> against Bobby Fischer. His creative attack genius is inspirational.
-  </li>
-  <br>
-  <li>
-    "Saul Gone" S06E13. <a href="https://www.imdb.com/title/tt3032476/">BCS</a> is a storytelling masterpiece!
-  </li>
-  <br>
-  <img src="/assets/img/bcs.jpg" width="100%" height="100%" class="center">
-  <br><br>
-  <li>
-    Cover art for one of my favourite songs. Listen <a href="https://www.youtube.com/watch?v=n3JGej1U77Q">here</a>.
-  </li>
-  <br>
-  <img src="/assets/img/bayaan.jpg" width="75%" height="75%" class="center">
-  <br>
+  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications that greatly aided me in my graduate applications.</a></li>
+  <li>Some <a href="https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html">old yet golden wisdom</a> from one of my mentors, Dr. Ihsan Ayyub Qazi, that I resolve to keep in mind going forward! </li>
+  <li>I'm a staunch fan of J-Pop music, and I've been vibing to <a href="https://www.youtube.com/watch?v=GHcMFjmPPS0&ab_channel=StarryAya">Social Path</a> (by Stray Kids and LiSA, two stellar performers in their own right) lately!</li>
+  <li>One of the best, yet hilarious <a href="https://www.youtube.com/watch?v=Vw3hbaZcn6I&ab_channel=MuhammedAhmed">VALORANT clips</a> I've hit back in the day xD</li>
+  <li><a href="https://www.youtube.com/watch?v=8egHozM7ABQ&ab_channel=MuhammedAhmed">Here's me</a> initially dominating, but eventually getting humbled by Malenia, one of the hardest bosses in video gaming history from Elden Ring, one of the best RPGs of all time.
+  <li>An <a href="https://www.youtube.com/watch?v=h3R650Kx5vk&t=2s&ab_channel=iiitsubasa">ASMV (Anime Story Music Video)</a> on Thorfinn from Vinland Saga - a breathtaking story of vengeance superseded by redemption (don't forget to turn on English subtitles >.>)! Here's also my most memorable manga panel of him:</li>
+  <img src="../assets/img/mangaPanel.png" alt="Manga Panel" style="display: block; margin: 0 auto; height: 500px;">
 </ul>
 
 
