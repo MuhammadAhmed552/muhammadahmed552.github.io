@@ -63,7 +63,7 @@ In my Junior year, I also joined in as a co-author on an extended submission for
 <ul>
   <li>As a Head TA, I conducted an <a href="https://drive.google.com/file/d/19CHkVWhDBWm8XZg6Ce6USx9QkLeP62Xx/view">asyncrhonous comprehensive session on Paxos</a> in CS:582 (Distributed Systems) where I reviewed some practice problems</li>
   <li>For MultiEdge-SLAM, one of my contributions was tracing out the entire KeyFrame generation pipeline over <a href="../assets/pdf/KeyFrame_notes.pdf">an eight-page document</a>, an exercise that proved to be pivotal in both coding and debugging our schemes.</li>
-  <li>Led my <a href="https://medium.com/@muhammadahmed3691/netflix-analyzing-and-predicting-movie-ratings-90abd40f88b4">CS:334 (Data Science) project</a> where we analyzed a Netflix movie dataset and developed an ML model to predict movie ratings based on preliminary information such as synopsis, title, director, genre. </li>
+  <li>Led my <a href="https://medium.com/@muhammadahmed3691/netflix-analyzing-and-predicting-movie-ratings-90abd40f88b4" target="_blank">CS:334 (Data Science) project</a> where we analyzed a Netflix movie dataset and developed an ML model to predict movie ratings based on preliminary information such as synopsis, title, director, genre. </li>
   <li>Served as the <a href="https://docs.google.com/presentation/d/1TFID9XzVrFLFrToGws5kRwKOP6-2lG3P/edit?usp=sharing&ouid=108165828665607373786&rtpof=true&sd=true">Graphic Designer for Team Teardrop</a>, which secured 1st place in th COVID-19 Hackathon 2020 by Open Data Pakistan.</li>
 </ul>
 
