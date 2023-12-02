@@ -53,27 +53,13 @@
               </li>
 
               <!-- Publications -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}" onclick="scrollToPublications()">{{ "publications" }}
-                  {%- if page.url contains 'blog' -%}
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="#publications">{{ "publications" }}
+                  {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              
-              <script>
-                function scrollToPublications() {
-                  var publicationsSection = document.getElementById('publications');
-                  if (publicationsSection) {
-                    var offset = publicationsSection.offsetTop - 20; // Adjust the offset as needed
-                    window.scrollTo({
-                      top: offset,
-                      behavior: 'smooth'
-                    });
-                  }
-                }
-              </script>
-              
               
               <!-- Resume -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
