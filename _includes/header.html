@@ -64,7 +64,7 @@
 
               <!-- Publications -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
-                <a class="nav-link" href="#publications">{{ "publications" }}
+                <a class="nav-link" href="{{ '/' | relative_url }}#publications">{{ "publications" }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -72,6 +72,36 @@
               </li>
               {% if site.blog_nav_title %}
               
+              <!-- Teaching -->
+              <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="#teaching">{{ "teaching" }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% if site.blog_nav_title %}
+              
+              <!-- Awards -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="#awards">{{ "awards" }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% if site.blog_nav_title %}
+
+              <!-- Blog -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="#blog">{{ "blog" }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% if site.blog_nav_title %} -->
+
               <!-- Resume -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="../assets/pdf/MuhammadAhmed_CV.pdf" target="_blank">{{ "resume" }}
