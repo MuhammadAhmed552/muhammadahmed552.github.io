@@ -20,6 +20,11 @@
               {{- site.title -}}
             {%- endif -%}
           </a>
+          {%- elsif site.enable_navbar_social -%}
+          <!-- Social Icons -->
+          <div class="navbar-brand social">
+            {% include social.html %}
+          </div>
           {% endif %}
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -47,15 +52,15 @@
                 </a>
               </li>
               {% if site.blog_nav_title %}
-              <!-- Blog
+              <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/' | relative_url }}">{{ site.blog_nav_title }}
+                <a class="nav-link" href="{{ '/' | relative_url }}#publications">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %} -->
+              {%- endif %}
 
               <!-- Publications -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
@@ -65,7 +70,6 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_nav_title %}
               
               <!-- Resume -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
