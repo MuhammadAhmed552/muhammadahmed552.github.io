@@ -61,7 +61,14 @@
                 </a>
               </li>
               {%- endif %}
-
+              <!-- Blog -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">{{ "TEST1" }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
               <!-- Other pages
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
