@@ -17,8 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a final-year BS CS student at the [**Lahore University of Management and Sciences**](https://lums.edu.pk/). My research interests span the domains of Networked Systems, and I am particularly drawn to the challenges of constructing efficient, scalable, and secure network systems within diverse distributed applications, each presenting its unique set of constraints and tradeoffs.  To this end, I also intend to rethink many already-existing abstractions that allow us to isolate these problems because, sometimes, the abstractions we synthesize can limit our perspective and discourage unconventional, innovative ways of thinking. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, under the supervision of my supervisor, [*Dr. Zafar Ayyub Qazi*](https://web.lums.edu.pk/~zafar/), and an external collaborator, [*Dr. Fawad Ahmed*](https://fawadahm.github.io/), I am working on MultiEdge-SLAM. The objective is to extend Edge-SLAM (built on ORB-SLAM2) for Multi-Access Edge Computing via pre-emptive state migration, empowering smartphones with limited computational capabilities to participate in SLAM algorithms, thereby enabling emerging AR/VR 5G applications. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my Junior year, I joined in as a co-author on an extended submission for [**CellClone**](https://dl.acm.org/doi/10.1145/3555050.3569130), a successor to [**Neutrino**](https://dl.acm.org/doi/10.1145/3387514.3406218) that addressed its shortcomings regarding fault tolerance. Supervised by [*Mukhtiar Ahmed*](https://mukhtiarahmad.com/), I led a key aspect of the expansion, which involves reimagining Control Plane Functions (CPFs) to achieve a more ecologically valid distribution of edge sites and evaluating accordingly.
+
+
