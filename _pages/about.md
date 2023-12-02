@@ -27,8 +27,10 @@ In my Junior year, I joined in as a co-author on an extended submission for [**C
 <h3><b>Publications</b></h3>
 
 <ul>
-  <b><u>CellClone: Accelerating 5G Applications with Active Control Plane Clones at the Edge</b></u>: 
+  <li>
+  <b><u>CellClone: Accelerating 5G Applications with Active Control Plane Clones at the Edge</u></b>: 
   Mukhtiar Ahmad, Muhammad Ali Nawazish, Muhammad Taimoor Tariq, <b>Muhammad Ahmed</b>, Muhammad Basit Iqbal Awan, Muhammad Taqi Raza, and Zafar Ayyub Qazi <span style="color: green;">(Under review in IEEE/ACM Transactions on Networking)</span>
+  </li>
 </ul>
 
 
