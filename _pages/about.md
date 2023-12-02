@@ -79,7 +79,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
 <h3><b>Miscellaneous</b></h3>
 
 <ul>
-  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications that greatly aided me in my graduate applications.</a></li>
+  <li>A very helpful <a href="https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf">resource</a> for graduate school applications that greatly aided me in my graduate applications.</li>
   <li>Some <a href="https://ihsan-qazi.blogspot.com/2010/08/few-pieces-of-advice-i-gave-to-my.html">old yet golden wisdom</a> from one of my mentors, Dr. Ihsan Ayyub Qazi, that I resolve to keep in mind going forward! </li>
   <li>I'm a staunch fan of J-Pop music, and I've been vibing to <a href="https://www.youtube.com/watch?v=GHcMFjmPPS0&ab_channel=StarryAya">Social Path</a> (by Stray Kids and LiSA, two stellar performers in their own right) lately!</li>
   <li>One of the best, yet hilarious <a href="https://www.youtube.com/watch?v=Vw3hbaZcn6I&ab_channel=MuhammedAhmed">VALORANT clips</a> I've hit back in the day xD</li>
