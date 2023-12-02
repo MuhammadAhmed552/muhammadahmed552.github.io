@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
+subtitle: 24100027 [at] lums [dot] edu [dot] pk
 
 profile:
   align: right
   image: profile.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>24100027 (at) lums.edu.pk</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -24,6 +23,7 @@ In my Junior year, I also joined in as a co-author on an extended submission for
 
 <hr class="solid">
 
+<section id="publications">
 <h3><b>Publications</b></h3>
 
 <ul>
@@ -32,8 +32,9 @@ In my Junior year, I also joined in as a co-author on an extended submission for
   Mukhtiar Ahmad, Muhammad Ali Nawazish, Muhammad Taimoor Tariq, <ins>Muhammad Ahmed</ins>, Muhammad Basit Iqbal Awan, Muhammad Taqi Raza, and Zafar Ayyub Qazi <span style="color: green;">(Under review in IEEE/ACM Transactions on Networking)</span>
   </li>
 </ul>
+</section>
 
-
+<section id="teaching">
 <h3><b>Teaching Experience</b></h3>
 
 <ul>
@@ -51,13 +52,17 @@ In my Junior year, I also joined in as a co-author on an extended submission for
       </ul>
   </li>
 </ul>
+</section>
 
+<section id="awards">
 <h3><b>Awards</b></h3>
 
 <ul>
   <li>Dean's Honor List (2020-2023)</li>
 </ul>
+</section>
 
+<section id="blog">
 <h3><b>Blog</b></h3>
 
 <ul>
@@ -66,6 +71,7 @@ In my Junior year, I also joined in as a co-author on an extended submission for
   <li>Led my <a href="https://medium.com/@muhammadahmed3691/netflix-analyzing-and-predicting-movie-ratings-90abd40f88b4">CS:334 (Data Science) project</a> where we analyzed a Netflix movie dataset and developed an ML model to predict movie ratings based on preliminary information such as synopsis, title, director, genre. </li>
   <li>Served as the <a href="https://docs.google.com/presentation/d/1TFID9XzVrFLFrToGws5kRwKOP6-2lG3P/edit?usp=sharing&ouid=108165828665607373786&rtpof=true&sd=true">Graphic Designer for Team Teardrop</a>, which secured 1st place in th COVID-19 Hackathon 2020 by Open Data Pakistan.</li>
 </ul>
+</section>
 
 <hr class="solid">
 
