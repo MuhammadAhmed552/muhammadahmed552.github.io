@@ -22,9 +22,9 @@ Currently, under the supervision of my supervisor, [Dr. Zafar Ayyub Qazi](https:
 In my Junior year, I also joined in as a co-author on an extended submission for [**<ins>CellClone</ins>**](https://dl.acm.org/doi/10.1145/3555050.3569130), a successor to [**<ins>Neutrino</ins>**](https://dl.acm.org/doi/10.1145/3387514.3406218) that addressed its shortcomings regarding fault tolerance. Supervised by [Mukhtiar Ahmed](https://mukhtiarahmad.com/), I led a key aspect of the expansion, which involves reimagining Control Plane Functions (CPFs) to achieve a more ecologically valid distribution of edge sites and evaluating accordingly. Through this evaluation, I 
 demonstrated the tradeoff between latency and fault tolerance that network operators can optimize for their constraints. 
 
-<section id="publications"></section>
 <hr class="solid">
 
+<section id="publications">
 <h3><b>Publications</b></h3>
 
 <ul>
@@ -33,7 +33,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
   Mukhtiar Ahmad, Muhammad Ali Nawazish, Muhammad Taimoor Tariq, <ins>Muhammad Ahmed</ins>, Muhammad Basit Iqbal Awan, Muhammad Taqi Raza, and Zafar Ayyub Qazi <span style="color: green;">(Under review in IEEE/ACM Transactions on Networking)</span>
   </li>
 </ul>
-
+</section>
 
 <section id="teaching">
 <h3><b>Teaching Experience</b></h3>
