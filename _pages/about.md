@@ -34,7 +34,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
   </li>
 </ul>
 </section>
-
+<hr class="solid">
 <section id="teaching">
 <h3><b>Teaching Experience</b></h3>
 
@@ -54,7 +54,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
   </li>
 </ul>
 </section>
-
+<hr class="solid">
 <section id="awards">
 <h3><b>Awards</b></h3>
 
@@ -62,7 +62,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
   <li>Dean's Honor List (2020-2023)</li>
 </ul>
 </section>
-
+<hr class="solid">
 <section id="blog">
 <h3><b>Blog</b></h3>
 
