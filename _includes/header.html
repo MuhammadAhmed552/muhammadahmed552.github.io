@@ -54,7 +54,7 @@
               {% if site.blog_nav_title %}
               <!-- Blog -->
               <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="">{{ site.blog_nav_title }}
+                <a class="nav-link" href="{{ '/' | relative_url }}#publications">{{ site.blog_nav_title }}
                   {%- if page.url contains 'blog' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
@@ -62,6 +62,16 @@
               </li>
               {%- endif %}
 
+              <!-- Publications -->
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+                <a class="nav-link" href="#publications">{{ "publications" }}
+                  {%- if page.permalink == '/' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {% if site.blog_nav_title %}
+              
               <!-- Resume -->
               <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="../assets/pdf/MuhammadAhmed_CV.pdf" target="_blank">{{ "resume" }}
