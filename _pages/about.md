@@ -85,7 +85,7 @@ demonstrated the tradeoff between latency and fault tolerance that network opera
   <li>One of the best, yet hilarious <a href="https://www.youtube.com/watch?v=Vw3hbaZcn6I&ab_channel=MuhammedAhmed">VALORANT clips</a> I've hit back in the day xD</li>
   <li><a href="https://www.youtube.com/watch?v=8egHozM7ABQ&ab_channel=MuhammedAhmed">Here's me</a> initially dominating, but eventually getting humbled by Malenia, one of the hardest bosses in video gaming history from Elden Ring, one of the best RPGs of all time.
   <li>An <a href="https://www.youtube.com/watch?v=h3R650Kx5vk&t=2s&ab_channel=iiitsubasa">ASMV (Anime Story Music Video)</a> on Thorfinn from Vinland Saga - a breathtaking story of vengeance superseded by redemption (don't forget to turn on English subtitles >.>)! Here's also my most memorable manga panel of him:</li>
-  <img src="../assets/img/mangaPanel.png" alt="Manga Panel" style="display: block; margin: 0 auto; height: 500px;">
+  <img src="../assets/img/mangaPanel.png" alt="Manga Panel" style="display: block; margin: 0 auto; height: 500px;"></img>
 </ul>
 
 
