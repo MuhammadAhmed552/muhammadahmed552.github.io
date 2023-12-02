@@ -20,7 +20,7 @@ I'm a final-year BS CS student (aspiring for Ph.D.) at the [**<ins>Lahore Univer
 Currently, under the supervision of my supervisor, [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), and an external collaborator, [Dr. Fawad Ahmed](https://fawadahm.github.io/), an acquaintance and I are working on [**<ins>MultiEdge-SLAM</ins>**](https://drive.google.com/file/d/1CXw79VaWWb37qIpXT1azWWtVcRv34AQe/view), which initially began as a course project. The objective is to extend [**<ins>Edge-SLAM</ins>**](https://dl.acm.org/doi/10.1145/3561972) (built on ORB-SLAM2) for Multi-Access Edge Computing via pre-emptive state migration, empowering smartphones with limited computational capabilities to participate in SLAM algorithms, thereby enabling emerging AR/VR 5G applications. 
 
 In my Junior year, I also joined in as a co-author on an extended submission for [**<ins>CellClone</ins>**](https://dl.acm.org/doi/10.1145/3555050.3569130), a successor to [**<ins>Neutrino</ins>**](https://dl.acm.org/doi/10.1145/3387514.3406218) that addressed its shortcomings regarding fault tolerance. Supervised by [Mukhtiar Ahmed](https://mukhtiarahmad.com/), I led a key aspect of the expansion, which involves reimagining Control Plane Functions (CPFs) to achieve a more ecologically valid distribution of edge sites and evaluating accordingly. Through this evaluation, I 
-<section id="publications">demonstrated the tradeoff between latency and fault tolerance that network operators can optimize for their constraints. 
+<section id="publications"><p>demonstrated the tradeoff between latency and fault tolerance that network operators can optimize for their constraints.</p>
 
 <hr class="solid">
 
